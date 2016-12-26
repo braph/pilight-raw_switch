@@ -1,0 +1,3 @@
+[submodule "pilight"]
+	path = pilight
+	url = https://github.com/pilight/pilight
